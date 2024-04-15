@@ -1,0 +1,14 @@
+/Users/darazavidova/Desktop/Finalwork/task/bin/Debug/net8.0/task
+/Users/darazavidova/Desktop/Finalwork/task/bin/Debug/net8.0/task.deps.json
+/Users/darazavidova/Desktop/Finalwork/task/bin/Debug/net8.0/task.runtimeconfig.json
+/Users/darazavidova/Desktop/Finalwork/task/bin/Debug/net8.0/task.dll
+/Users/darazavidova/Desktop/Finalwork/task/bin/Debug/net8.0/task.pdb
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.AssemblyInfoInputs.cache
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.AssemblyInfo.cs
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.csproj.CoreCompileInputs.cache
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.dll
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/refint/task.dll
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.pdb
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/task.genruntimeconfig.cache
+/Users/darazavidova/Desktop/Finalwork/task/obj/Debug/net8.0/ref/task.dll
